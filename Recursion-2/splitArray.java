@@ -16,6 +16,7 @@ public boolean sumEqual(int sum1, int sum2, int start, int [] nums){
 }
 
 /*
+second approach
 public boolean splitArray(int[] nums) {
   return sumEqual(0,0, 0, nums);
 }
